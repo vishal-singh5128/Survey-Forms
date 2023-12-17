@@ -124,6 +124,10 @@ textarea {
   p {
   }
 
+  form {
+    width: 75%;
+  }
+
   h1 {
     font-size: 1.5em;
     padding-bottom: 0.5em;
